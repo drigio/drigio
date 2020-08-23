@@ -1,5 +1,7 @@
 ### Namaste 🙏
 
+![](https://komarev.com/ghpvc/?username=drigio&style=flat-square)
+
 <!--
 **drigio/drigio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
