@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on NodeJS
-- 🌱 I’m currently learning Neural Networks
-- 🤔 I’m looking for help with NLP. If you can point me at some great sources, just hit me up!
+- 🌱 I’m currently learning about Distributed Systems and Golang
+- 🤔 I’m looking for help with Distributed Systems. If you can point me at some great sources, just hit me up!
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/gaurav-kondhare/) 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Windows is becoming the daily driver for many of us out there!😉 Good Job @msft 🙌  
+- ⚡ Available for discussions related to any kind of distributed systems and its design.
+- 🚀 Tools I've used - GKE, GitHub Actions, Terraform, Jenkins, ITRS Geneos, MongoDB, Mongo Ops Manager, Hashicorp Consul, RedHat OpenShift, Prometheus, Grafana, Java, NodeJs, Bash, AWS, GCP
 
-Aren't the new GitHub features amazing? 🧐 
