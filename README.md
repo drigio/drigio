@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/gaurav-kondhare/) 
 - 😄 Pronouns: He/Him
 - ⚡ Available for discussions related to any kind of distributed systems and its design.
-- 🚀 Tools I've used - GKE, GitHub Actions, Terraform, Jenkins, ITRS Geneos, MongoDB, Mongo Ops Manager, Hashicorp Consul, RedHat OpenShift, Prometheus, Grafana, Java, NodeJs, Bash, AWS, GCP
+- 🚀 Tools I've used extensively - GKE, GitHub Actions, Terraform, Jenkins, ITRS Geneos, MongoDB, Mongo Ops Manager, Hashicorp Consul, RedHat OpenShift, Prometheus, Grafana, Java, NodeJs, Bash, AWS, GCP, ELK Stack
 
