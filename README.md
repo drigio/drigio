@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning about Distributed Systems and Golang
+- 🌱 I’m currently learning about GenAI and developing Agentic AI applications.
 - 🙈 Also learning about Retrieval Augmented Generation AI Agent development.
 - 🤔 I’m looking for help with Distributed Systems. If you can point me at some great sources, just hit me up!
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/gaurav-kondhare/) 
