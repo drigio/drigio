@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning about GenAI and developing Agentic AI applications using LLamaIndex with Memory.
+- 🌱 I’m currently learning about GenAI and developing Agentic AI applications using LLamaIndex, Microsoft Autogen and AG2AI AG2 frameworks with Memory.
 - 🙈 Also learning about Retrieval Augmented Generation AI Agent development.
 - GenAI Tooling I am exploring - LLamaIndex, Gemini Google GenAI SDK, Qdrant, FastAPI, Pydantic, Langchain/Langgraph, MLFlow 
 - 🤔 I’m looking for help with Distributed Systems. If you can point me at some great sources, just hit me up!
